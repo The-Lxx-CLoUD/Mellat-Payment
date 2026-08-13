@@ -70,7 +70,7 @@ Actually routing goes from the global internet to your localhost
 
 ## 👤 Author
 
-GitHub : [👉 @TheLxxCLoUD 👈](https://github.com/TheLxxCLoUD)
+GitHub : [👉 @The-Lxx-CLoUD 👈](https://github.com/The-Lxx-CLoUD)
 
 Telegram : [👉 @lxxcloud 👈](https://t.me/lxxcloud)
 
